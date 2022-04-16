@@ -1,0 +1,46 @@
+{
+  "announcement": [
+    {
+      "id": 1,
+      "title": "Quisquam dolor alias qwe",
+      "description": "Aliquip suipit qui asd",
+      "dateAdded": "16.04.2022, 21:27:11"
+    },
+    {
+      "id": 2,
+      "title": "Illo suscipit dolor aperia",
+      "description": "Qui voluptatem minim",
+      "dateAdded": "16.04.2022, 21:58:40"
+    },
+    {
+      "title": "Alias omnis totam li",
+      "description": "Iure porro ex ipsum qui",
+      "dateAdded": "16.04.2022, 19:23:43",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Totam quod alias eu ea mol",
+      "description": "Inventore quia repud qui",
+      "dateAdded": "16.04.2022, 19:25:48"
+    },
+    {
+      "id": 5,
+      "title": "Commodi qwe ducimus eum",
+      "description": "Et qui asd proident per",
+      "dateAdded": "16.04.2022, 20:37:35"
+    },
+    {
+      "title": "Dolorem qwe pariatur Qu",
+      "description": "Omnis dolore asd magni e",
+      "dateAdded": "16.04.2022, 19:28:07",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "Assumenda delectus ",
+      "description": "Ullamco qui commodo ",
+      "dateAdded": "16.04.2022, 21:53:17"
+    }
+  ]
+}
