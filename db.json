@@ -42,31 +42,5 @@
       "description": "Ullamco qui commodo ",
       "dateAdded": "16.04.2022, 21:53:17"
     }
-  ],
-  "banks": [
-    {
-      "name": "Kadeem Small",
-      "interestRate": "77",
-      "maximumLoan": "60",
-      "minimumDownPayment": "28",
-      "loanTerm": "53",
-      "id": 1
-    },
-    {
-      "name": "Samson Hicks",
-      "interestRate": "4",
-      "maximumLoan": "1",
-      "minimumDownPayment": "85",
-      "loanTerm": "26",
-      "id": 3
-    },
-    {
-      "name": "Emerson Ashley",
-      "interestRate": "90",
-      "maximumLoan": "36",
-      "minimumDownPayment": "80",
-      "loanTerm": "18",
-      "id": 4
-    }
   ]
 }
