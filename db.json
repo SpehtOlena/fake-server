@@ -42,5 +42,23 @@
       "description": "Ullamco qui commodo ",
       "dateAdded": "16.04.2022, 21:53:17"
     }
-  ]
+  ],
+  "banks": [
+    {
+      "id": 1,
+      "name": "Quisquam dolor alias qwe",
+      "interestRate": "3",
+      "maximumLoan": "123",
+      "minimumDownPayment": "321",
+      "loanTerm": "321"
+    },
+    {
+      "id": 2,
+      "name": "dolor alias qwe",
+      "interestRate": "4",
+      "maximumLoan": "333",
+      "minimumDownPayment": "22",
+      "loanTerm": "222"
+    }
+   ]
 }
