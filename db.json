@@ -44,9 +44,28 @@
     }
   ],
   "banks": [
-
   ],
   "users": [
-
+    {
+      "email": "kidad@mailinator.com",
+      "name": "Willow Garner",
+      "password": "Pa$$w0rd!",
+      "admin": true,
+      "id": 4
+    },
+    {
+      "email": "zagegefa@mailinator.com",
+      "name": "Kenyon Valencia",
+      "password": "Pa$$w0rd!",
+      "admin": true,
+      "id": 5
+    },
+    {
+      "email": "suxado@mailinator.com",
+      "name": "Melyssa Kidd",
+      "password": "Pa$$w0rd!",
+      "admin": false,
+      "id": 6
+    }
   ]
 }
