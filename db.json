@@ -44,6 +44,86 @@
     }
   ],
   "banks": [
+    {
+      "name": "Bell Stephenson",
+      "interestRate": 2.8,
+      "maximumLoan": 7643,
+      "minimumDownPayment": 91666,
+      "loanTerm": 65,
+      "id": 2
+    },
+    {
+      "name": "Chaim Jefferson",
+      "interestRate": 0.91,
+      "maximumLoan": 33805,
+      "minimumDownPayment": 87030,
+      "loanTerm": 195,
+      "id": 3
+    },
+    {
+      "name": "Hakeem Rodgers",
+      "interestRate": 6.45,
+      "maximumLoan": 51320,
+      "minimumDownPayment": 85943,
+      "loanTerm": 184,
+      "id": 6
+    },
+    {
+      "name": "Abra Nguyen",
+      "interestRate": 3.82,
+      "maximumLoan": 33732,
+      "minimumDownPayment": 72124,
+      "loanTerm": 129,
+      "id": 7
+    },
+    {
+      "name": "Angela Emerson",
+      "interestRate": 8.12,
+      "maximumLoan": 74882,
+      "minimumDownPayment": 12474,
+      "loanTerm": 146,
+      "id": 8
+    },
+    {
+      "name": "Giselle Pate",
+      "interestRate": 2,
+      "maximumLoan": 18462,
+      "minimumDownPayment": 86230,
+      "loanTerm": 37,
+      "id": 9
+    },
+    {
+      "name": "Upton Kerr",
+      "interestRate": 1.73,
+      "maximumLoan": 81981,
+      "minimumDownPayment": 10651,
+      "loanTerm": 313,
+      "id": 10
+    },
+    {
+      "name": "Erin Blevins",
+      "interestRate": 0.09,
+      "maximumLoan": 22312,
+      "minimumDownPayment": 54409,
+      "loanTerm": 211,
+      "id": 11
+    },
+    {
+      "name": "Rana Espinoza",
+      "interestRate": 8.55,
+      "maximumLoan": 38421,
+      "minimumDownPayment": 40332,
+      "loanTerm": 172,
+      "id": 12
+    },
+    {
+      "name": "Tallulah Gross",
+      "interestRate": 0.38,
+      "maximumLoan": 71655,
+      "minimumDownPayment": 63762,
+      "loanTerm": 358,
+      "id": 13
+    }
   ],
   "users": [
     {
