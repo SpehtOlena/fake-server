@@ -184,7 +184,94 @@
   ],
   "photos": [
   ],
-    "priceList": [
+  "priceGroups": [
+    {
+      "id": 1,
+      "title": "group1"
+    },
+    {
+      "id": 2,
+      "title": "group2"
+    },
+    {
+      "id": 3,
+      "title": "group3"
+    },
+    {
+      "id": 4,
+      "title": "group4"
+    },
+    {
+      "id": 5,
+      "title": "group5"
+    },
+    {
+      "id": 6,
+      "title": "group6"
+    },
+    {
+      "id": 7,
+      "title": "group7"
+    }
+  ],
+  "priceFields": [
+    {
+      "id": 1,
+      "subtitle": "field1",
+      "groupId": 1
+    },
+    {
+      "id": 2,
+      "subtitle": "field2",
+      "groupId": 1
+    },
+    {
+      "id": 3,
+      "subtitle": "field3",
+      "groupId": 2
+    },
+    {
+      "id": 4,
+      "subtitle": "field4",
+      "groupId": 5
+    },
+    {
+      "id": 5,
+      "subtitle": "field5",
+      "groupId": 5
+    },
+    {
+      "id": 6,
+      "subtitle": "field6",
+      "groupId": 3
+    },
+    {
+      "id": 7,
+      "subtitle": "field7",
+      "groupId": 4
+    },
+    {
+      "id": 8,
+      "subtitle": "field8",
+      "groupId": 3
+    },
+    {
+      "id": 9,
+      "subtitle": "field9",
+      "groupId": 4
+    },
+    {
+      "id": 10,
+      "subtitle": "field10",
+      "groupId": 8
+    },
+    {
+      "id": 11,
+      "subtitle": "field11",
+      "groupId": 2
+    }
+  ],
+  "priceList": [
     {
       "id": 1,
       "title": "Діагностика",
