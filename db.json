@@ -1648,5 +1648,4843 @@
       "image": "https://robohash.org/iuuniike.png",
       "id": 39
     }
-  ]
+  ],
+  [
+  {
+    "name": {
+      "ukr": "Бард",
+      "eng": "Bard"
+    },
+    "url": "/classes/bard",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к8",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Колегія Доблесті",
+          "eng": "Valor"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/bard/valor"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Знань",
+          "eng": "Lore"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/bard/lore"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Мечей",
+          "eng": "Swords"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/bard/swords"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Чарівності",
+          "eng": "Glamour"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/bard/glamour"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Шепотів",
+          "eng": "Whispers"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/bard/whispers"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Древніх",
+          "eng": "Ancient"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PG",
+          "name": "Путівник гравця: Проростаючий хаос",
+          "homebrew": true
+        },
+        "url": "/classes/bard/ancient"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Ключів",
+          "eng": "Keys"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MMCfAA",
+          "name": "Збірник Моргрейв: Навчальна програма для тих, що пргануть пригод.",
+          "homebrew": true
+        },
+        "url": "/classes/bard/keys"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Розбрату",
+          "eng": "Discord"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/bard/discord"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Трауру",
+          "eng": "Mourning"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/bard/mourning"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Сатири",
+          "eng": "Satire"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UA16KoO",
+          "name": "Unearthed Arcana 2016: Старі набори"
+        },
+        "url": "/classes/bard/satire"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Створення",
+            "eng": "Creation"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/bard/creation"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Красномовства",
+          "eng": "Eloquence"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/bard/eloquence"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Епічної Поезії",
+          "eng": "Epic"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одіссея Повелителів драконів",
+          "homebrew": true
+        },
+        "url": "/classes/bard/epic"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Духів",
+          "eng": "Spirits"
+        },
+        "type": {
+          "name": "Сеттинги[ERROR]",
+          "order": 2
+        },
+        "source": {
+          "shortName": "VRGR",
+          "name": "Путівник ван Ріхтена по Равенлофту"
+        },
+        "url": "/classes/bard/spirits"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Оспівувачів",
+          "eng": "Cryers"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "EB",
+          "name": "Дослідження Еберона",
+          "homebrew": true
+        },
+        "url": "/classes/bard/cryers"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Трагедії",
+          "eng": "Tragedy"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "TDCS",
+          "name": "Сеттинг компанії Тал Дорей",
+          "homebrew": true
+        },
+        "url": "/classes/bard/tragedy"
+      },
+      {
+        "name": {
+            "ukr": "Колегія Зеленого Листа",
+          "eng": "Greenleaf"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/bard/greenleaf"
+      },
+      {
+        "name": {
+            "ukr": "Колегія Ентропії",
+          "eng": "Entropy"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/bard/entropy"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Авантюристів",
+          "eng": "Adventurers"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/bard/adventurers"
+      },
+      {
+        "name": {
+          "ukr": "Колегія Реквіємів",
+          "eng": "Requiems"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/bard/requiems"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-bard.webp",
+    "icon": "class-bard",
+    "archetypeName": "Коллегії бардів",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Волшебник",
+      "eng": "Wizard"
+    },
+    "url": "/classes/wizard",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к6",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Школа Воплощения",
+          "eng": "Evocation"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/wizard/evocation"
+      },
+      {
+        "name": {
+          "ukr": "Школа Вызова",
+          "eng": "Conjuration"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/wizard/conjuration"
+      },
+      {
+        "name": {
+          "ukr": "Школа Иллюзии",
+          "eng": "Illusion"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/wizard/illusion"
+      },
+      {
+        "name": {
+          "ukr": "Школа Некромантии",
+          "eng": "Necromancy"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/wizard/necromancy"
+      },
+      {
+        "name": {
+          "ukr": "Школа Ограждения",
+          "eng": "Abjuration"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/wizard/abjuration"
+      },
+      {
+        "name": {
+          "ukr": "Школа Очарования",
+          "eng": "Enchantment"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/wizard/enchantment"
+      },
+      {
+        "name": {
+          "ukr": "Школа Преобразования",
+          "eng": "Transmutation"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/wizard/transmutation"
+      },
+      {
+        "name": {
+          "ukr": "Школа Прорицания",
+          "eng": "Divination"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/wizard/divination"
+      },
+      {
+        "name": {
+          "ukr": "Военная Магия",
+          "eng": "Warmage"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/wizard/warmage"
+      },
+      {
+        "name": {
+          "ukr": "Охотник На Магов",
+          "eng": "Mage Hunter"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/mage_hunter"
+      },
+      {
+        "name": {
+          "ukr": "Песнь Клинка",
+          "eng": "Bladesong"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "SCAG",
+          "name": "Путеводитель приключенца по Побережью меча"
+        },
+        "url": "/classes/wizard/bladesong"
+      },
+      {
+        "name": {
+          "ukr": "Хрономаг",
+          "eng": "Chronurgy"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "EGtW",
+          "name": "Путеводитель исследователя по Дикогорью"
+        },
+        "url": "/classes/wizard/chronurgy"
+      },
+      {
+        "name": {
+          "ukr": "Гравитационный Маг",
+          "eng": "Graviturgy"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "EGtW",
+          "name": "Путеводитель исследователя по Дикогорью"
+        },
+        "url": "/classes/wizard/graviturgy"
+      },
+      {
+        "name": {
+          "ukr": "Ономантия",
+          "eng": "Onomancy"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UACDW",
+          "name": "Unearthed Arcana: Жрец, Друид и Волшебник"
+        },
+        "url": "/classes/wizard/onomancy"
+      },
+      {
+        "name": {
+          "ukr": "Песнь Клинка",
+          "eng": "Bladesinging"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/wizard/bladesinging"
+      },
+      {
+        "name": {
+          "ukr": "Орден Писцов",
+          "eng": "Scribes"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/wizard/scribes"
+      },
+      {
+        "name": {
+          "ukr": "Школа Восстановления",
+          "eng": "Reconstruction"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/reconstruction"
+      },
+      {
+        "name": {
+          "ukr": "Школа Обмана",
+          "eng": "Beguiler"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/beguiler"
+      },
+      {
+        "name": {
+          "ukr": "Философ Академии",
+          "eng": "Academy Philosopher"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/academy_philosopher"
+      },
+      {
+        "name": {
+          "ukr": "Маг Часовых Механизмов",
+          "eng": "Clockwork Magician"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AMCM",
+          "name": "Углублённая Магия. Часовые механизмы.",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/clockwork_magician"
+      },
+      {
+        "name": {
+          "ukr": "Глаголящий Пустоту",
+          "eng": "Speek Void"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AMCM",
+          "name": "Углублённая Магия. Часовые механизмы.",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/speek_void"
+      },
+      {
+        "name": {
+          "ukr": "Магия Крови",
+          "eng": "Blood Magic"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "TDCS",
+          "name": "Сеттинг кампании Тал'Дорей",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/blood_magic"
+      },
+      {
+        "name": {
+          "ukr": "Создатель Рун",
+          "eng": "Rune"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UA22GO",
+          "name": "Unearthed Arcana 2022: Гиганты"
+        },
+        "url": "/classes/wizard/rune"
+      },
+      {
+        "name": {
+          "ukr": "Ангельский Писарь",
+          "eng": "Angelic Scribe"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/angelic_scribe"
+      },
+      {
+        "name": {
+          "ukr": "Школа Часовых Механизмов",
+          "eng": "Clockwork"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/clockwork"
+      },
+      {
+        "name": {
+          "ukr": "Накликающий Рок",
+          "eng": "Doom Croaker"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/doom_croaker"
+      },
+      {
+        "name": {
+          "ukr": "Драконьи Маски",
+          "eng": "Dragon Masks"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/dragon_masks"
+      },
+      {
+        "name": {
+          "ukr": "Элементалист",
+          "eng": "Elementalist"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/elementalist"
+      },
+      {
+        "name": {
+          "ukr": "Эльфийская Высшая Магия",
+          "eng": "Elven High Magic"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/elven_high_magic"
+      },
+      {
+        "name": {
+          "ukr": "Энтропия",
+          "eng": "Entropy"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/entropy"
+      },
+      {
+        "name": {
+          "ukr": "Геомант",
+          "eng": "Geomancy"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/geomancy"
+      },
+      {
+        "name": {
+          "ukr": "Иллюминация",
+          "eng": "Illumination"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/illumination"
+      },
+      {
+        "name": {
+          "ukr": "Некрофагия",
+          "eng": "Necrophagy"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/necrophagy"
+      },
+      {
+        "name": {
+          "ukr": "Хранитель Кольца",
+          "eng": "Ring Warden"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/ring_warden"
+      },
+      {
+        "name": {
+          "ukr": "Мастерство Знаний",
+          "eng": "Lore Mastery"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UAWW",
+          "name": "Unearthed Arcana: Колдун & Волшебник"
+        },
+        "url": "/classes/wizard/lore_mastery"
+      },
+      {
+        "name": {
+          "ukr": "Чумной Доктор",
+          "eng": "Plague Doctor"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/plague_doctor"
+      },
+      {
+        "name": {
+          "ukr": "Школа Сангромантии",
+          "eng": "Sangromancy"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/wizard/sangromancy"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-wizard.webp",
+    "icon": "class-wizard",
+    "archetypeName": "Магические традиции",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Друид",
+      "eng": "Druid"
+    },
+    "url": "/classes/druid",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к8",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Круг Земли",
+          "eng": "Land"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/druid/land"
+      },
+      {
+        "name": {
+          "ukr": "Круг Луны",
+          "eng": "Moon"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/druid/moon"
+      },
+      {
+        "name": {
+          "ukr": "Круг Пастыря",
+          "eng": "Shepherd"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/druid/shepherd"
+      },
+      {
+        "name": {
+          "ukr": "Круг Снов",
+          "eng": "Dreams"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/druid/dreams"
+      },
+      {
+        "name": {
+          "ukr": "Круг Плодородия",
+          "eng": "Fertility"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PG",
+          "name": "Путівник гравця: Проростаючий хаос",
+          "homebrew": true
+        },
+        "url": "/classes/druid/fertility"
+      },
+      {
+        "name": {
+          "ukr": "Круг Спор",
+          "eng": "Spores GGR"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "GGR",
+          "name": "Справочник гильдмастера по Равнике"
+        },
+        "url": "/classes/druid/spores_ggr"
+      },
+      {
+        "name": {
+          "ukr": "Круг Спор",
+          "eng": "Spores"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/druid/spores"
+      },
+      {
+        "name": {
+          "ukr": "Круг Звезд",
+          "eng": "Stars"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/druid/stars"
+      },
+      {
+        "name": {
+          "ukr": "Круг Дикого Огня",
+          "eng": "Wildfire"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/druid/wildfire"
+      },
+      {
+        "name": {
+          "ukr": "Круг Владыки Духов",
+          "eng": "Spiritlords"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/druid/spiritlords"
+      },
+      {
+        "name": {
+          "ukr": "Круг Сезонов",
+          "eng": "Seasons"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/druid/seasons"
+      },
+      {
+        "name": {
+          "ukr": "Круг Жертвоприношений",
+          "eng": "Sacrifice"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/druid/sacrifice"
+      },
+      {
+        "name": {
+          "ukr": "Круг Кованых",
+          "eng": "Warforged"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "EB",
+          "name": "Исследование Эберона",
+          "homebrew": true
+        },
+        "url": "/classes/druid/warforged"
+      },
+      {
+        "name": {
+          "ukr": "Круг Зараженных",
+          "eng": "Blighted"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "TDCS",
+          "name": "Сеттинг кампании Тал'Дорей",
+          "homebrew": true
+        },
+        "url": "/classes/druid/blighted"
+      },
+      {
+        "name": {
+          "ukr": "Круг Первозданных",
+          "eng": "Primary"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UA22GO",
+          "name": "Unearthed Arcana 2022: Гиганты"
+        },
+        "url": "/classes/druid/primary"
+      },
+      {
+        "name": {
+          "ukr": "Круг Камней",
+          "eng": "Stones"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/druid/stones"
+      },
+      {
+        "name": {
+          "ukr": "Круг Крови",
+          "eng": "Blood"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/druid/blood"
+      },
+      {
+        "name": {
+          "ukr": "Круг Мутации",
+          "eng": "Mutation"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/druid/mutation"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-druid.webp",
+    "icon": "class-druid",
+    "archetypeName": "Круги друидов",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Жрец",
+      "eng": "Cleric"
+    },
+    "url": "/classes/cleric",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к8",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Домен Бури",
+          "eng": "Tempest"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/cleric/tempest"
+      },
+      {
+        "name": {
+          "ukr": "Домен Войны",
+          "eng": "War"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/cleric/war"
+      },
+      {
+        "name": {
+          "ukr": "Домен Жизни",
+          "eng": "Life"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/cleric/life"
+      },
+      {
+        "name": {
+          "ukr": "Домен Знания",
+          "eng": "Knowledge"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/cleric/knowledge"
+      },
+      {
+        "name": {
+          "ukr": "Домен Обмана",
+          "eng": "Trickery"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/cleric/trickery"
+      },
+      {
+        "name": {
+          "ukr": "Домен Природы",
+          "eng": "Nature"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/cleric/nature"
+      },
+      {
+        "name": {
+          "ukr": "Домен Света",
+          "eng": "Light"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/cleric/light"
+      },
+      {
+        "name": {
+          "ukr": "Домен Кузни",
+          "eng": "Forge"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/cleric/forge"
+      },
+      {
+        "name": {
+          "ukr": "Домен Упокоения",
+          "eng": "Grave"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/cleric/grave"
+      },
+      {
+        "name": {
+          "ukr": "Домен Магии",
+          "eng": "Arcana"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "SCAG",
+          "name": "Путеводитель приключенца по Побережью меча"
+        },
+        "url": "/classes/cleric/arcana"
+      },
+      {
+        "name": {
+          "ukr": "Домен Смерти",
+          "eng": "Death"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "DMG",
+          "name": "Руководство мастера"
+        },
+        "url": "/classes/cleric/death"
+      },
+      {
+        "name": {
+          "ukr": "Домен Энтропии",
+          "eng": "Entropy"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LSM",
+          "name": "Потерянный город Мезро",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/entropy"
+      },
+      {
+        "name": {
+          "ukr": "Домен Порядка",
+          "eng": "Order"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/cleric/order"
+      },
+      {
+        "name": {
+          "ukr": "Домен Мира",
+          "eng": "Peace"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/cleric/peace"
+      },
+      {
+        "name": {
+          "ukr": "Домен Сумрака",
+          "eng": "Twilight"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/cleric/twilight"
+      },
+      {
+        "name": {
+          "ukr": "Домен Пророчества",
+          "eng": "Prophecy"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/prophecy"
+      },
+      {
+        "name": {
+          "ukr": "Домен Часовых Механизмов",
+          "eng": "Clock Mechanisms"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AMCM",
+          "name": "Углублённая Магия. Часовые механизмы.",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/clock_mechanisms"
+      },
+      {
+        "name": {
+          "ukr": "Домен Разума",
+          "eng": "Intelligence"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "EB",
+          "name": "Исследование Эберона",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/intelligence"
+      },
+      {
+        "name": {
+          "ukr": "Домен Крови",
+          "eng": "Blood"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "TDCS",
+          "name": "Сеттинг кампании Тал'Дорей",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/blood"
+      },
+      {
+        "name": {
+          "ukr": "Домен Луны",
+          "eng": "Moon"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "TDCS",
+          "name": "Сеттинг кампании Тал'Дорей",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/moon"
+      },
+      {
+        "name": {
+          "ukr": "Домен Апокалипсиса",
+          "eng": "Apocalypse"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/apocalypse"
+      },
+      {
+        "name": {
+          "ukr": "Домен Пива",
+          "eng": "Beer"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/beer"
+      },
+      {
+        "name": {
+          "ukr": "Домен Кошки",
+          "eng": "Cat"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/cat"
+      },
+      {
+        "name": {
+          "ukr": "Домен Часовых Механизмов",
+          "eng": "Clockwork"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/clockwork"
+      },
+      {
+        "name": {
+          "ukr": "Домен Тьмы",
+          "eng": "Darkness"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/darkness"
+      },
+      {
+        "name": {
+          "ukr": "Домен Дракона",
+          "eng": "Dragon"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/dragon"
+      },
+      {
+        "name": {
+          "ukr": "Домен Голода",
+          "eng": "Hunger"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/hunger"
+      },
+      {
+        "name": {
+          "ukr": "Домен Охоты",
+          "eng": "Hunting"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/hunting"
+      },
+      {
+        "name": {
+          "ukr": "Домен Правосудия",
+          "eng": "Justice"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/justice"
+      },
+      {
+        "name": {
+          "ukr": "Домен Лабиринта",
+          "eng": "Labyrinth"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/labyrinth"
+      },
+      {
+        "name": {
+          "ukr": "Домен Луны",
+          "eng": "Moon MHH"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/moon_mhh"
+      },
+      {
+        "name": {
+          "ukr": "Домен Горы",
+          "eng": "Mountain"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/mountain"
+      },
+      {
+        "name": {
+          "ukr": "Домен Океана",
+          "eng": "Ocean"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/ocean"
+      },
+      {
+        "name": {
+          "ukr": "Домен Предсказания",
+          "eng": "Prophecy MHH"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/prophecy_mhh"
+      },
+      {
+        "name": {
+          "ukr": "Домен Скорости",
+          "eng": "Speed"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/speed"
+      },
+      {
+        "name": {
+          "ukr": "Домен Путешествия",
+          "eng": "Travel"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/travel"
+      },
+      {
+        "name": {
+          "ukr": "Домен Пустоты",
+          "eng": "Void"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/void"
+      },
+      {
+        "name": {
+          "ukr": "Окетра: Домен Сплочённости",
+          "eng": "Oketra Solidarity"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PSA",
+          "name": "Plane Shift: Амонхет",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/oketra_solidarity"
+      },
+      {
+        "name": {
+          "ukr": "Ронас: Домен Силы",
+          "eng": "Rhonas Strength"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PSA",
+          "name": "Plane Shift: Амонхет",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/rhonas_strength"
+      },
+      {
+        "name": {
+          "ukr": "Бонту: Домен Амбиций",
+          "eng": "Bontu Ambition"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PSA",
+          "name": "Plane Shift: Амонхет",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/bontu_ambition"
+      },
+      {
+        "name": {
+          "ukr": "Хазорет: Домен Рвения",
+          "eng": "Hazoret Zeal"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PSA",
+          "name": "Plane Shift: Амонхет",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/hazoret_zeal"
+      },
+      {
+        "name": {
+          "ukr": "Домен Ужаса",
+          "eng": "Eldritch"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/eldritch"
+      },
+      {
+        "name": {
+          "ukr": "Домен Инквизиции",
+          "eng": "Inquisition"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/cleric/inquisition"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-cleric.webp",
+    "icon": "class-cleric",
+    "archetypeName": "Божественные домены",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Колдун",
+      "eng": "Warlock"
+    },
+    "url": "/classes/warlock",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к8",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Архифея",
+          "eng": "Archfey"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/warlock/archfey"
+      },
+      {
+        "name": {
+          "ukr": "Исчадие",
+          "eng": "Fiend"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/warlock/fiend"
+      },
+      {
+        "name": {
+          "ukr": "Великий Древний",
+          "eng": "Great Old One"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/warlock/great_old_one"
+      },
+      {
+        "name": {
+          "ukr": "Ведьмовской Клинок",
+          "eng": "Hexblade"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/warlock/hexblade"
+      },
+      {
+        "name": {
+          "ukr": "Небожитель",
+          "eng": "Celestial"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/warlock/celestial"
+      },
+      {
+        "name": {
+          "ukr": "Бессмертный",
+          "eng": "Undying"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "SCAG",
+          "name": "Путеводитель приключенца по Побережью меча"
+        },
+        "url": "/classes/warlock/undying"
+      },
+      {
+        "name": {
+          "ukr": "Бездонный",
+          "eng": "Fathomless"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/warlock/fathomless"
+      },
+      {
+        "name": {
+          "ukr": "Гений",
+          "eng": "Genie"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/warlock/genie"
+      },
+      {
+        "name": {
+          "ukr": "Хаос",
+          "eng": "Chaos"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/warlock/chaos"
+      },
+      {
+        "name": {
+          "ukr": "Мойры",
+          "eng": "Moira"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/warlock/moira"
+      },
+      {
+        "name": {
+          "ukr": "Бог-машина",
+          "eng": "Deus Ex Machina"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AMCM",
+          "name": "Углублённая Магия. Часовые механизмы.",
+          "homebrew": true
+        },
+        "url": "/classes/warlock/deus_ex_machina"
+      },
+      {
+        "name": {
+          "ukr": "Нежить",
+          "eng": "Undead"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "VRGR",
+          "name": "Путівник ван Ріхтена по Равенлофту"
+        },
+        "url": "/classes/warlock/undead"
+      },
+      {
+        "name": {
+          "ukr": "Владыка Гениев",
+          "eng": "Genie Lord"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/warlock/genie_lord"
+      },
+      {
+        "name": {
+          "ukr": "Бог-машина",
+          "eng": "The Great Machine"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/warlock/the_great_machine"
+      },
+      {
+        "name": {
+          "ukr": "Пожиратель Света",
+          "eng": "The Light Eater"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/warlock/the_light_eater"
+      },
+      {
+        "name": {
+          "ukr": "Колдовской Клинок",
+          "eng": "Hexblade UA"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UAWW",
+          "name": "Unearthed Arcana: Колдун & Волшебник"
+        },
+        "url": "/classes/warlock/hexblade_ua"
+      },
+      {
+        "name": {
+          "ukr": "Королева Воронов",
+          "eng": "The Raven Queen"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UAWW",
+          "name": "Unearthed Arcana: Колдун & Волшебник"
+        },
+        "url": "/classes/warlock/the_raven_queen"
+      },
+      {
+        "name": {
+          "ukr": "Первородный Вампир",
+          "eng": "The First Vampire"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/warlock/the_first_vampire"
+      },
+      {
+        "name": {
+          "ukr": "Паразит",
+          "eng": "The Parasite"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/warlock/the_parasite"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-warlock.webp",
+    "icon": "class-warlock",
+    "archetypeName": "Потусторонние покровители",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Паладин",
+      "eng": "Paladin"
+    },
+    "url": "/classes/paladin",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к10",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Клятва Преданности",
+          "eng": "Devotion"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/paladin/devotion"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Древних",
+          "eng": "Ancients"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/paladin/ancients"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Мести",
+          "eng": "Vengeance"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/paladin/vengeance"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Искупления",
+          "eng": "Redemption"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/paladin/redemption"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Покорения",
+          "eng": "Conquest"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/paladin/conquest"
+      },
+      {
+        "name": {
+          "ukr": "Клятвопреступник",
+          "eng": "Oathbreaker"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "DMG",
+          "name": "Руководство мастера"
+        },
+        "url": "/classes/paladin/oathbreaker"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Короны",
+          "eng": "Crown"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "SCAG",
+          "name": "Путеводитель приключенца по Побережью меча"
+        },
+        "url": "/classes/paladin/crown"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Славы",
+          "eng": "Glory"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/paladin/glory"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Стражей",
+          "eng": "Watchers"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/paladin/watchers"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Предначертания",
+          "eng": "Providence"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/paladin/providence"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Хищничества",
+          "eng": "Predation"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/paladin/predation"
+      },
+      {
+        "name": {
+          "ukr": "Присяга Повелителя Драконов",
+          "eng": "Dragonlords Oath"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/paladin/dragonlords_oath"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Открытого Моря",
+          "eng": "Open Sea"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "TDCS",
+          "name": "Сеттинг кампании Тал'Дорей",
+          "homebrew": true
+        },
+        "url": "/classes/paladin/open_sea"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Сияния",
+          "eng": "Oath of Radiance"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/paladin/oath_of_radiance"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Грому",
+          "eng": "Oath of Thunder"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/paladin/oath_of_thunder"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Мора",
+          "eng": "Pestilence"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/paladin/pestilence"
+      },
+      {
+        "name": {
+          "ukr": "Клятва Рвения",
+          "eng": "Zeal"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/paladin/zeal"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-paladin.webp",
+    "icon": "class-paladin",
+    "archetypeName": "Священные клятвы",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Следопыт",
+      "eng": "Ranger"
+    },
+    "url": "/classes/ranger",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к10",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Охотник",
+          "eng": "Hunter"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/ranger/hunter"
+      },
+      {
+        "name": {
+          "ukr": "Повелитель Зверей",
+          "eng": "Beast Master"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/ranger/beast_master"
+      },
+      {
+        "name": {
+          "ukr": "Странник Горизонта",
+          "eng": "Horizon Walker"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/ranger/horizon_walker"
+      },
+      {
+        "name": {
+          "ukr": "Сумрачный Охотник",
+          "eng": "Gloom Stalker"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/ranger/gloom_stalker"
+      },
+      {
+        "name": {
+          "ukr": "Убийца Монстров",
+          "eng": "Monster Slayer"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/ranger/monster_slayer"
+      },
+      {
+        "name": {
+          "ukr": "Повелитель Растений",
+          "eng": "Plants Master"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PG",
+          "name": "Путівник гравця: Проростаючий хаос",
+          "homebrew": true
+        },
+        "url": "/classes/ranger/plants_master"
+      },
+      {
+        "name": {
+          "ukr": "Странник Пустошей",
+          "eng": "Wasteland Wanderer"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/ranger/wasteland_wanderer"
+      },
+      {
+        "name": {
+          "ukr": "Городской Разведчик",
+          "eng": "Burghal Explorer"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/ranger/burghal_explorer"
+      },
+      {
+        "name": {
+          "ukr": "Фейский Странник",
+          "eng": "Fey Wanderer"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/ranger/fey_wanderer"
+      },
+      {
+        "name": {
+          "ukr": "Роевод",
+          "eng": "Swarmkeeper"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/ranger/swarmkeeper"
+      },
+      {
+        "name": {
+          "ukr": "Конклав Амазонок",
+          "eng": "Conclave of the Amazons"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/ranger/conclave_of_the_amazons"
+      },
+      {
+        "name": {
+          "ukr": "Дрейковод",
+          "eng": "Drakewarden"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "FTD",
+          "name": "Сокровищница драконов Фицбана"
+        },
+        "url": "/classes/ranger/drakewarden"
+      },
+      {
+        "name": {
+          "ukr": "Истребитель Вампиров",
+          "eng": "Vampire Slayer"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/ranger/vampire_slayer"
+      },
+      {
+        "name": {
+          "ukr": "Скаут Зобека",
+          "eng": "Zobecker Scout"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/ranger/zobecker_scout"
+      },
+      {
+        "name": {
+          "ukr": "Зелёный Жнец",
+          "eng": "Green Reaper"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/ranger/green_reaper"
+      },
+      {
+        "name": {
+          "ukr": "Повелитель Паразитов",
+          "eng": "Vermin Lord"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/ranger/vermin_lord"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-ranger.webp",
+    "icon": "class-ranger",
+    "archetypeName": "Архетипы следопыта",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Чародей",
+      "eng": "Sorcerer"
+    },
+    "url": "/classes/sorcerer",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к6",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Наследие Драконьей Крови",
+          "eng": "Draconic"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/sorcerer/draconic"
+      },
+      {
+        "name": {
+          "ukr": "Дикая Магия",
+          "eng": "Wild Magic"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/sorcerer/wild_magic"
+      },
+      {
+        "name": {
+          "ukr": "Божественная Душа",
+          "eng": "Divine Soul"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/sorcerer/divine_soul"
+      },
+      {
+        "name": {
+          "ukr": "Теневая Магия",
+          "eng": "Shadow"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/sorcerer/shadow"
+      },
+      {
+        "name": {
+          "ukr": "Штормовое Колдовство",
+          "eng": "Storm"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/sorcerer/storm"
+      },
+      {
+        "name": {
+          "ukr": "Отмеченный Порчей",
+          "eng": "Marked by corruption"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PG",
+          "name": "Путівник гравця: Проростаючий хаос",
+          "homebrew": true
+        },
+        "url": "/classes/sorcerer/marked_by_corruption"
+      },
+      {
+        "name": {
+          "ukr": "Магия Фей",
+          "eng": "Fey Magic"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/sorcerer/fey_magic"
+      },
+      {
+        "name": {
+          "ukr": "Аберрантный Разум",
+          "eng": "Aberrant Mind"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/sorcerer/aberrant_mind"
+      },
+      {
+        "name": {
+          "ukr": "Заводная Душа",
+          "eng": "Clockwork Soul"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/sorcerer/clockwork_soul"
+      },
+      {
+        "name": {
+          "ukr": "Полубог",
+          "eng": "Demigod"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/sorcerer/demigod"
+      },
+      {
+        "name": {
+          "ukr": "Лунная Магия",
+          "eng": "Lunar Magic"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UA22HK",
+          "name": "Unearthed Arcana 2022: Герои Кринна"
+        },
+        "url": "/classes/sorcerer/lunar_magic"
+      },
+      {
+        "name": {
+          "ukr": "Дитя Рун",
+          "eng": "Runechild"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "TDCS",
+          "name": "Сеттинг кампании Тал'Дорей",
+          "homebrew": true
+        },
+        "url": "/classes/sorcerer/runechild"
+      },
+      {
+        "name": {
+          "ukr": "Рожденный В Лабиринте",
+          "eng": "Mazeborn"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/sorcerer/mazeborn"
+      },
+      {
+        "name": {
+          "ukr": "Наследник Теней",
+          "eng": "Shadow MHH"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/sorcerer/shadow_mhh"
+      },
+      {
+        "name": {
+          "ukr": "Маг Квандрикса",
+          "eng": "Mage of Quandrix"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UAMoS",
+          "name": "Unearthed Arcana: Маги Стриксхейвена"
+        },
+        "url": "/classes/sorcerer/mage_of_quandrix"
+      },
+      {
+        "name": {
+          "ukr": "Маг Призмари",
+          "eng": "Mage of Prismari"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UAMoS",
+          "name": "Unearthed Arcana: Маги Стриксхейвена"
+        },
+        "url": "/classes/sorcerer/mage_of_prismari"
+      },
+      {
+        "name": {
+          "ukr": "Преследуемый",
+          "eng": "Haunted"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/sorcerer/haunted"
+      },
+      {
+        "name": {
+          "ukr": "Проклятый Род",
+          "eng": "Wretched Bloodline"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/sorcerer/wretched_bloodline"
+      },
+      {
+        "name": {
+          "ukr": "Лунное Чародейство",
+          "eng": "Lunar"
+        },
+        "type": {
+          "name": "Приключения",
+          "order": 1
+        },
+        "source": {
+          "shortName": "DSotDQ",
+          "name": "Драконье копье: Тень Королевы Драконов"
+        },
+        "url": "/classes/sorcerer/lunar"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-sorcerer.webp",
+    "icon": "class-sorcerer",
+    "archetypeName": "Происхождение чародея",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Варвар",
+      "eng": "Barbarian"
+    },
+    "url": "/classes/barbarian",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к12",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Путь Берсерка",
+          "eng": "Berserker"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/barbarian/berserker"
+      },
+      {
+        "name": {
+          "ukr": "Путь Тотемного Воина",
+          "eng": "Totem Warrior"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/barbarian/totem_warrior"
+      },
+      {
+        "name": {
+          "ukr": "Путь Буревестника",
+          "eng": "Storm Herald"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/barbarian/storm_herald"
+      },
+      {
+        "name": {
+          "ukr": "Путь Предка-хранителя",
+          "eng": "Ancestral Guardian"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/barbarian/ancestral_guardian"
+      },
+      {
+        "name": {
+          "ukr": "Путь Фанатика",
+          "eng": "Zealot"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/barbarian/zealot"
+      },
+      {
+        "name": {
+          "ukr": "Путь Кровавого Жнеца",
+          "eng": "Red Reaver"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/barbarian/red_reaver"
+      },
+      {
+        "name": {
+          "ukr": "Путь Священного Рода",
+          "eng": "Sacred Kin"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/barbarian/sacred_kin"
+      },
+      {
+        "name": {
+          "ukr": "Путь Бушующего В Бою",
+          "eng": "Battlerager"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "SCAG",
+          "name": "Путеводитель приключенца по Побережью меча"
+        },
+        "url": "/classes/barbarian/battlerager"
+      },
+      {
+        "name": {
+          "ukr": "Путь Предков",
+          "eng": "Ancestors"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/barbarian/ancestors"
+      },
+      {
+        "name": {
+          "ukr": "Путь Порчи",
+          "eng": "Spoilage"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PG",
+          "name": "Путівник гравця: Проростаючий хаос",
+          "homebrew": true
+        },
+        "url": "/classes/barbarian/spoilage"
+      },
+      {
+        "name": {
+          "ukr": "Путь Зверя",
+          "eng": "Beast"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/barbarian/beast"
+      },
+      {
+        "name": {
+          "ukr": "Путь Дикой Магии",
+          "eng": "Wild Magic"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/barbarian/wild_magic"
+      },
+      {
+        "name": {
+          "ukr": "Путь Храброго Сердца",
+          "eng": "Courageous Heart"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/barbarian/courageous_heart"
+      },
+      {
+        "name": {
+          "ukr": "Путь Титана",
+          "eng": "Titanium"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/barbarian/titanium"
+      },
+      {
+        "name": {
+          "ukr": "Путь Джаггернаута",
+          "eng": "Juggernaut"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "TDCS",
+          "name": "Сеттинг кампании Тал'Дорей",
+          "homebrew": true
+        },
+        "url": "/classes/barbarian/juggernaut"
+      },
+      {
+        "name": {
+          "ukr": "Путь Гиганта",
+          "eng": "Giant"
+        },
+        "type": {
+          "name": "Unearthed Arcana",
+          "order": 3
+        },
+        "source": {
+          "shortName": "UA22GO",
+          "name": "Unearthed Arcana 2022: Гиганты"
+        },
+        "url": "/classes/barbarian/giant"
+      },
+      {
+        "name": {
+          "ukr": "Путь Двуликого",
+          "eng": "Fractured"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/barbarian/fractured"
+      },
+      {
+        "name": {
+          "ukr": "Путь Первобытного Духа",
+          "eng": "Primal Spirit"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/barbarian/primal_spirit"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-barbarian.webp",
+    "icon": "class-barbarian",
+    "archetypeName": "Пути дикости",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Воин",
+      "eng": "Fighter"
+    },
+    "url": "/classes/fighter",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к10",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Мастер Боевых Искусств",
+          "eng": "Battle Master"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/fighter/battle_master"
+      },
+      {
+        "name": {
+          "ukr": "Мистический Рыцарь",
+          "eng": "Eldritch Knight"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/fighter/eldritch_knight"
+      },
+      {
+        "name": {
+          "ukr": "Чемпион",
+          "eng": "Champion"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/fighter/champion"
+      },
+      {
+        "name": {
+          "ukr": "Кавалерист",
+          "eng": "Cavalier"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/fighter/cavalier"
+      },
+      {
+        "name": {
+          "ukr": "Мистический Лучник",
+          "eng": "Arcane Archer"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/fighter/arcane_archer"
+      },
+      {
+        "name": {
+          "ukr": "Самурай",
+          "eng": "Samurai"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/fighter/samurai"
+      },
+      {
+        "name": {
+          "ukr": "Драгун",
+          "eng": "Dragoon"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/dragoon"
+      },
+      {
+        "name": {
+          "ukr": "Рунный Рыцарь",
+          "eng": "Runeduard"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/runeduard"
+      },
+      {
+        "name": {
+          "ukr": "Рыцарь Пурпурного Дракона",
+          "eng": "Purple Dragon"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "SCAG",
+          "name": "Путеводитель приключенца по Побережью меча"
+        },
+        "url": "/classes/fighter/purple_dragon"
+      },
+      {
+        "name": {
+          "ukr": "Рыцарь Эхо",
+          "eng": "Echo"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "EGtW",
+          "name": "Путеводитель исследователя по Дикогорью"
+        },
+        "url": "/classes/fighter/echo"
+      },
+      {
+        "name": {
+          "ukr": "Авангардист",
+          "eng": "Avant-gardist"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/avant-gardist"
+      },
+      {
+        "name": {
+          "ukr": "Атлет",
+          "eng": "Athlete"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/athlete"
+      },
+      {
+        "name": {
+          "ukr": "Громила",
+          "eng": "Brute"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/brute"
+      },
+      {
+        "name": {
+          "ukr": "Безликий",
+          "eng": "Faceless"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/faceless"
+      },
+      {
+        "name": {
+          "ukr": "Боевой Разум",
+          "eng": "Warmind"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/warmind"
+      },
+      {
+        "name": {
+          "ukr": "Боевой Волхв",
+          "eng": "Warmagi"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/warmagi"
+      },
+      {
+        "name": {
+          "ukr": "Певец Битвы",
+          "eng": "Battlesinger"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/battlesinger"
+      },
+      {
+        "name": {
+          "ukr": "Военный Санитар",
+          "eng": "Military Orderly"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/military_orderly"
+      },
+      {
+        "name": {
+          "ukr": "Гладиатор",
+          "eng": "Gladiator"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/gladiator"
+      },
+      {
+        "name": {
+          "ukr": "Мирмидон",
+          "eng": "Myrmidon"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/myrmidon"
+      },
+      {
+        "name": {
+          "ukr": "Рыцарь Рощи",
+          "eng": "Grove"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/grove"
+      },
+      {
+        "name": {
+          "ukr": "Пси-воин",
+          "eng": "Psi Warrior"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/fighter/psi_warrior"
+      },
+      {
+        "name": {
+          "ukr": "Рунный Рыцарь",
+          "eng": "Rune Knight"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/fighter/rune_knight"
+      },
+      {
+        "name": {
+          "ukr": "Стрелок",
+          "eng": "Gunslinger"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "CR",
+          "name": "Критический Бросок",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/gunslinger"
+      },
+      {
+        "name": {
+          "ukr": "Гоплит",
+          "eng": "Hoplite"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/hoplite"
+      },
+      {
+        "name": {
+          "ukr": "Фехтовальщик",
+          "eng": "Swordsman"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "AW",
+          "name": "Архетипы воина",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/swordsman"
+      },
+      {
+        "name": {
+          "ukr": "Лязгающий Наёмник",
+          "eng": "Clanking Mercenary"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/clanking_mercenary"
+      },
+      {
+        "name": {
+          "ukr": "Иджит",
+          "eng": "Edjet"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/edjet"
+      },
+      {
+        "name": {
+          "ukr": "Призрачный Рыцарь",
+          "eng": "Ghost Knight"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/ghost_knight"
+      },
+      {
+        "name": {
+          "ukr": "Рыцарь Грифона",
+          "eng": "Griffon Knight"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/griffon_knight"
+      },
+      {
+        "name": {
+          "ukr": "Мастер Щитов",
+          "eng": "Shieldbearer"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/shieldbearer"
+      },
+      {
+        "name": {
+          "ukr": "Танцующий С Мечом",
+          "eng": "Sword-dancer"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/sword-dancer"
+      },
+      {
+        "name": {
+          "ukr": "Бастион",
+          "eng": "Bulwark Warrior"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/bulwark_warrior"
+      },
+      {
+        "name": {
+          "ukr": "Живое Горнило",
+          "eng": "Living Crucible"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/fighter/living_crucible"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-fighter.webp",
+    "icon": "class-fighter",
+    "archetypeName": "Воинские архетипы",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Монах",
+      "eng": "Monk"
+    },
+    "url": "/classes/monk",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к8",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Путь Открытой Ладони",
+          "eng": "Open Hand"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/monk/open_hand"
+      },
+      {
+        "name": {
+          "ukr": "Путь Тени",
+          "eng": "Shadow"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/monk/shadow"
+      },
+      {
+        "name": {
+          "ukr": "Путь Четырёх Стихий",
+          "eng": "Four Elements"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/monk/four_elements"
+      },
+      {
+        "name": {
+          "ukr": "Путь Кенсэя",
+          "eng": "Kensei"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/monk/kensei"
+      },
+      {
+        "name": {
+          "ukr": "Путь Пьяного Мастера",
+          "eng": "Drunken Master"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/monk/drunken_master"
+      },
+      {
+        "name": {
+          "ukr": "Путь Солнечной Души",
+          "eng": "Sun Soul"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/monk/sun_soul"
+      },
+      {
+        "name": {
+          "ukr": "Путь Шипов",
+          "eng": "Pinch"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "PG",
+          "name": "Путівник гравця: Проростаючий хаос",
+          "homebrew": true
+        },
+        "url": "/classes/monk/pinch"
+      },
+      {
+        "name": {
+          "ukr": "Путь Долгой Смерти",
+          "eng": "Long Death"
+        },
+        "type": {
+          "name": "Сеттинги",
+          "order": 2
+        },
+        "source": {
+          "shortName": "SCAG",
+          "name": "Путеводитель приключенца по Побережью меча"
+        },
+        "url": "/classes/monk/long_death"
+      },
+      {
+        "name": {
+          "ukr": "Путь Милосердия",
+          "eng": "Mercy"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/monk/mercy"
+      },
+      {
+        "name": {
+          "ukr": "Путь Астрального Я",
+          "eng": "Astral self"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/monk/astral_self"
+      },
+      {
+        "name": {
+          "ukr": "Путь Искупления",
+          "eng": "Atonement"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/monk/atonement"
+      },
+      {
+        "name": {
+          "ukr": "Путь Сочувствия",
+          "eng": "Empathy"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/monk/empathy"
+      },
+      {
+        "name": {
+          "ukr": "Путь Щита",
+          "eng": "Shield"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/monk/shield"
+      },
+      {
+        "name": {
+          "ukr": "Путь Живого Оружия",
+          "eng": "Living Weapon"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "EB",
+          "name": "Исследование Эберона",
+          "homebrew": true
+        },
+        "url": "/classes/monk/living_weapon"
+      },
+      {
+        "name": {
+          "ukr": "Путь Восходящего Дракона",
+          "eng": "Ascendant Dragon"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "FTD",
+          "name": "Сокровищница драконов Фицбана"
+        },
+        "url": "/classes/monk/ascendant_dragon"
+      },
+      {
+        "name": {
+          "ukr": "Путь Кобальтовой Души",
+          "eng": "Cobalt Soul"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "TDCS",
+          "name": "Сеттинг кампании Тал'Дорей",
+          "homebrew": true
+        },
+        "url": "/classes/monk/cobalt_soul"
+      },
+      {
+        "name": {
+          "ukr": "Путь Свинцовой Короны",
+          "eng": "Leaden Crown"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/monk/leaden_crown"
+      },
+      {
+        "name": {
+          "ukr": "Путь Гордости",
+          "eng": "Pride"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/monk/pride"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-monk.webp",
+    "icon": "class-monk",
+    "archetypeName": "Монастырские традиции",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Плут",
+      "eng": "Rogue"
+    },
+    "url": "/classes/rogue",
+    "source": {
+      "shortName": "PHB",
+      "name": "Книга гравця"
+    },
+    "dice": "к8",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Вор",
+          "eng": "Thief"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/rogue/thief"
+      },
+      {
+        "name": {
+          "ukr": "Убийца",
+          "eng": "Assassin"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/rogue/assassin"
+      },
+      {
+        "name": {
+          "ukr": "Мистический Ловкач",
+          "eng": "Arcane Trickster"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "PHB",
+          "name": "Книга гравця"
+        },
+        "url": "/classes/rogue/arcane_trickster"
+      },
+      {
+        "name": {
+          "ukr": "Дуэлянт",
+          "eng": "Swashbuckler"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/rogue/swashbuckler"
+      },
+      {
+        "name": {
+          "ukr": "Комбинатор",
+          "eng": "Mastermind"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/rogue/mastermind"
+      },
+      {
+        "name": {
+          "ukr": "Скаут",
+          "eng": "Scout"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/rogue/scout"
+      },
+      {
+        "name": {
+          "ukr": "Сыщик",
+          "eng": "Inquisitive"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "XGE",
+          "name": "Настанова Зантара про все"
+        },
+        "url": "/classes/rogue/inquisitive"
+      },
+      {
+        "name": {
+          "ukr": "Археолог",
+          "eng": "Archaeologist"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ATH",
+          "name": "Архетипы плута",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/archaeologist"
+      },
+      {
+        "name": {
+          "ukr": "Корсар",
+          "eng": "Corsair"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ATH",
+          "name": "Архетипы плута",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/corsair"
+      },
+      {
+        "name": {
+          "ukr": "Ниндзя",
+          "eng": "Ninja"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ATH",
+          "name": "Архетипы плута",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/ninja"
+      },
+      {
+        "name": {
+          "ukr": "Самозванец",
+          "eng": "Impostor"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ATH",
+          "name": "Архетипы плута",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/impostor"
+      },
+      {
+        "name": {
+          "ukr": "Тенеплёт",
+          "eng": "Shadowlet"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ATH",
+          "name": "Архетипы плута",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/shadowlet"
+      },
+      {
+        "name": {
+          "ukr": "Шут",
+          "eng": "Jester"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ATH",
+          "name": "Архетипы плута",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/jester"
+      },
+      {
+        "name": {
+          "ukr": "Фантом",
+          "eng": "Phantom"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/rogue/phantom"
+      },
+      {
+        "name": {
+          "ukr": "Клинок Души",
+          "eng": "Soulknife"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/rogue/soulknife"
+      },
+      {
+        "name": {
+          "ukr": "Божественный Вестник",
+          "eng": "Divine Herald"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "LPZAE",
+          "name": "Втрачені сторінки Занатара про все",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/divine_herald"
+      },
+      {
+        "name": {
+          "ukr": "Одиссеец",
+          "eng": "Odyssey"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "ODL",
+          "name": "Одиссея Повелителей драконов",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/odyssey"
+      },
+      {
+        "name": {
+          "ukr": "Задира",
+          "eng": "Duelist"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/duelist"
+      },
+      {
+        "name": {
+          "ukr": "Посредник",
+          "eng": "Fixer"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/fixer"
+      },
+      {
+        "name": {
+          "ukr": "Шепчущий",
+          "eng": "Whisper"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "MHH",
+          "name": "Мідгард Довідник героя",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/whisper"
+      },
+      {
+        "name": {
+          "ukr": "Всадник С Большой Дороги",
+          "eng": "Highway Rider"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/highway_rider"
+      },
+      {
+        "name": {
+          "ukr": "Вестник Несчастья",
+          "eng": "Misfortune Bringer"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "GHtPG",
+          "name": "Керівництво гравця у Похмурій лощині",
+          "homebrew": true
+        },
+        "url": "/classes/rogue/misfortune_bringer"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-rogue.webp",
+    "icon": "class-rogue",
+    "archetypeName": "Плутовские архетипы",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Изобретатель",
+      "eng": "Artificer"
+    },
+    "url": "/classes/artificer",
+    "source": {
+      "shortName": "TCE",
+      "name": "Котел Таші з усякою всячиною"
+    },
+    "dice": "к8",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Алхимик",
+          "eng": "Alchemist"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/artificer/alchemist"
+      },
+      {
+        "name": {
+          "ukr": "Артиллерист",
+          "eng": "Artillerist"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/artificer/artillerist"
+      },
+      {
+        "name": {
+          "ukr": "Боевой Кузнец",
+          "eng": "Battle Smith"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/artificer/battle_smith"
+      },
+      {
+        "name": {
+          "ukr": "Бронник",
+          "eng": "Armorer"
+        },
+        "type": {
+          "name": "Базові",
+          "order": 0
+        },
+        "source": {
+          "shortName": "TCE",
+          "name": "Котел Таші з усякою всячиною"
+        },
+        "url": "/classes/artificer/armorer"
+      },
+      {
+        "name": {
+          "ukr": "Мастер Кузнечного Дела",
+          "eng": "Forming"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "EB",
+          "name": "Исследование Эберона",
+          "homebrew": true
+        },
+        "url": "/classes/artificer/forming"
+      },
+      {
+        "name": {
+          "ukr": "Инакомыслящий",
+          "eng": "Dissenter"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "EB",
+          "name": "Исследование Эберона",
+          "homebrew": true
+        },
+        "url": "/classes/artificer/dissenter"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-artificer.webp",
+    "icon": "class-artificer",
+    "archetypeName": "Специализации изобретателя",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Кровавый охотник",
+      "eng": "Blood Hunter"
+    },
+    "url": "/classes/blood_hunter",
+    "source": {
+      "shortName": "CR",
+      "name": "Критический Бросок",
+      "homebrew": true
+    },
+    "dice": "к10",
+    "archetypes": [
+      {
+        "name": {
+          "ukr": "Орден Призрачных Убийц",
+          "eng": "Ghostslayer"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "CR",
+          "name": "Критический Бросок",
+          "homebrew": true
+        },
+        "url": "/classes/blood_hunter/ghostslayer"
+      },
+      {
+        "name": {
+          "ukr": "Орден Осквернённых Душ",
+          "eng": "Profane Soul"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "CR",
+          "name": "Критический Бросок",
+          "homebrew": true
+        },
+        "url": "/classes/blood_hunter/profane_soul"
+      },
+      {
+        "name": {
+          "ukr": "Орден Мутантов",
+          "eng": "Mutant"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "CR",
+          "name": "Критический Бросок",
+          "homebrew": true
+        },
+        "url": "/classes/blood_hunter/mutant"
+      },
+      {
+        "name": {
+          "ukr": "Орден Ликантропов",
+          "eng": "Lycan"
+        },
+        "type": {
+          "name": "Homebrew",
+          "order": 4
+        },
+        "source": {
+          "shortName": "CR",
+          "name": "Критический Бросок",
+          "homebrew": true
+        },
+        "url": "/classes/blood_hunter/lycan"
+      }
+    ],
+    "image": "https://image.ttg.club:8089/classes/background/class-blood-hunter.webp",
+    "icon": "class-blood-hunter",
+    "archetypeName": "Ордена кровавых охотников",
+    "sidekick": false
+  },
+  {
+    "name": {
+      "ukr": "Напарник заклинатель",
+      "eng": "Spellcaster Sidekick"
+    },
+    "url": "/classes/spellcaster_sidekick",
+    "source": {
+      "shortName": "TCE",
+      "name": "Котел Таші з усякою всячиною"
+    },
+    "dice": "к6",
+    "archetypes": [],
+    "group": {
+      "name": "Напарники",
+      "order": 0
+    },
+    "image": "https://image.ttg.club:8089/classes/background/class-spellcaster-sidekick.webp",
+    "sidekick": true
+  },
+  {
+    "name": {
+      "ukr": "Напарник эксперт",
+      "eng": "Expert Sidekick"
+    },
+    "url": "/classes/expert_sidekick",
+    "source": {
+      "shortName": "TCE",
+      "name": "Котел Таші з усякою всячиною"
+    },
+    "dice": "к8",
+    "archetypes": [],
+    "group": {
+      "name": "Напарники",
+      "order": 0
+    },
+    "image": "https://image.ttg.club:8089/classes/background/class-expert-sidekick.webp",
+    "sidekick": true
+  },
+  {
+    "name": {
+      "ukr": "Напарник боец",
+      "eng": "Warrior Sidekick"
+    },
+    "url": "/classes/warrior_sidekick",
+    "source": {
+      "shortName": "TCE",
+      "name": "Котел Таші з усякою всячиною"
+    },
+    "dice": "к10",
+    "archetypes": [],
+    "group": {
+      "name": "Напарники",
+      "order": 0
+    },
+    "image": "https://image.ttg.club:8089/classes/background/class-warrior-sidekick.webp",
+    "sidekick": true
+  }
+]
 }
